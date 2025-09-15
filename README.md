@@ -13,7 +13,7 @@
 
 🚀 Project Goals:
 - Tự động hóa việc lập **lá số**
-- Kết hợp mô hình AI vào giải đoán
+- Kết hợp mô hình AI vào hỗ trợ giải đoán, học tập
 - Hệ thống hỗ trợ học và tra cứu
 
 
